@@ -1,11 +1,11 @@
 {
-	"name": "posthog/posthog-php",
+	"name": "ablaevent/ablaevent-php",
 	"version": "3.0.6",
 	"description": "PostHog PHP Library",
 	"keywords": [
 		"posthog"
 	],
-	"homepage": "https://github.com/PostHog/posthog-php",
+	"homepage": "https://github.com/AblaAnalytics/ablaevent-php",
 	"license": "MIT",
 	"authors": [
 		{
