@@ -76,7 +76,7 @@ class Client
         $Consumer = self::CONSUMERS[$options["consumer"] ?? "lib_curl"];
         $this->consumer = new $Consumer($apiKey, $options);
         $this->httpClient = $httpClient !== null ? $httpClient : new HttpClient(
-            $options['host'] ?? "app.posthog.com",
+            $options['host'] ?? "e.abla.io",
             $options['ssl'] ?? true,
             (int) ($options['maximum_backoff_duration'] ?? 10000),
             false,

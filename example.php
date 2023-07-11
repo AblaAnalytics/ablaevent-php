@@ -9,7 +9,7 @@ const PERSONAL_API_KEY = "";
 
 PostHog::init(
     PROJECT_API_KEY,
-    array('host' => 'https://app.posthog.com'),
+    array('host' => 'https://e.abla.io'),
     null,
     PERSONAL_API_KEY
 );

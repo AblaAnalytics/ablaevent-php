@@ -14,7 +14,7 @@ class PostHogTest extends TestCase
     public function setUp(): void
     {
         date_default_timezone_set("UTC");
-        $this->http_client = new MockedHttpClient("app.posthog.com");
+        $this->http_client = new MockedHttpClient("e.abla.io");
         $this->client = new Client(
             FAKE_API_KEY,
             [
