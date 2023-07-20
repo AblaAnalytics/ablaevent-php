@@ -1,7 +1,7 @@
 {
 	"name": "ablaevent/ablaevent-php",
 	"version": "3.0.6",
-	"description": "PostHog PHP Library",
+	"description": "Ablaevent PHP Library",
 	"keywords": [
 		"posthog"
 	],
