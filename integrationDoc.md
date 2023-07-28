@@ -17,7 +17,7 @@ Follow the instructions below to send custom events from your PHP backend.
 ````
 php composer.phar install
 Configure
-PostHog::init('phc_ySCF4YinUf6DxprJ5B0jXtzgijeTqFkWPsIIfC3yTrC',
+PostHog::init('PHC',
     array('host' => 'https://e.abla.io')
 );
 ````

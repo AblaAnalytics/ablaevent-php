@@ -3,7 +3,7 @@
 	"version": "3.0.6",
 	"description": "Ablaevent PHP Library",
 	"keywords": [
-		"posthog"
+		"ablaevent"
 	],
 	"homepage": "https://github.com/AblaAnalytics/ablaevent-php",
 	"license": "MIT",
